@@ -8,13 +8,14 @@ A simple module that tracks each time a user logs in and stores browser name, br
   * Dependency injection.
   * Drupal 8 Service API.
   
-  2. NPR Composer Integration (https://github.com/jiangzhan/npr_composer)
+  
+#### NPR Composer Integration (https://github.com/jiangzhan/npr_composer)
   
   Leverages:
-    Interacting NPR Composer API(RESTful).
-    Using php composer to autoloading classes.
-    Check Wordpress cache before send request.
+  * Interacting NPR Composer API(RESTful).
+  * Using php composer to autoloading classes.
+  * Check Wordpress cache before send request.
     
-  3. Tabs (https://github.com/jiangzhan/Tabs)
+#### Tabs (https://github.com/jiangzhan/Tabs)
   
   A vanilla javascript class to create tab script.

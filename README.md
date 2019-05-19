@@ -1,8 +1,8 @@
-# Code samples:
-1. Member login (https://github.com/jiangzhan/member_login)
+## Code samples:
+#### Member login (https://github.com/jiangzhan/member_login)
 
 A simple module that tracks each time a user logs in and stores browser name, browser version, platform and user ID to the database.
-
+  
   Leverages:
   * Drupal 8 routing system.
   * Dependency injection.

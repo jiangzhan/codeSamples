@@ -1,5 +1,5 @@
 ## Code samples:
-#### User Ip Lookup (https://github.com/jiangzhan/ip_lookup)
+#### User IP Lookup (https://github.com/jiangzhan/ip_lookup)
 
 A simple module that tracks each time a user logs in and stores browser name, platform, browser version, city, region and user ID into your database.
   

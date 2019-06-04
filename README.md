@@ -1,7 +1,7 @@
 ## Code samples:
-#### Member login (https://github.com/jiangzhan/member_login)
+#### Member login (https://github.com/jiangzhan/ip_lookup)
 
-A simple module that tracks each time a user logs in and stores browser name, browser version, platform and user ID to the database.
+A simple module that tracks each time a user logs in and stores browser name, platform, browser version, city, region and user ID into your database.
   
   Leverages:
   * Drupal 8 routing system.
